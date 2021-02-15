@@ -24,4 +24,6 @@ The buildup of this list will focus on five main directions:
 ## The application on the stock market
 
 ## The state-of-the-art models that even your grandma knows
-1. Agrim Gupta, Silvio Savarese, Surya Ganguli, Li Fei-Fei, "Embodied Intelligence via Learning and Evolution", [arXiv](https://arxiv.org/abs/2102.02202)
+### Reinforcement Learning
+[1] Agrim Gupta, Silvio Savarese, Surya Ganguli, Li Fei-Fei, "Embodied Intelligence via Learning and Evolution", [arXiv](https://arxiv.org/abs/2102.02202)
+[2] John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov, "Proximal Policy Optimization Algorithms", [arXiv](https://arxiv.org/abs/1707.06347)
