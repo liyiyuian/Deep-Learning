@@ -18,7 +18,7 @@ I will focus on the following five directions:
 ## Classic models and follow-up studies
 
 ## The reinforcement learning and active learning
-- [1] Agrim Gupta, Silvio Savarese, Surya Ganguli, Li Fei-Fei, "Embodied Intelligence via Learning and Evolution", 2020, [arXiv](https://arxiv.org/abs/2102.02202)
+- [1] Agrim Gupta, Silvio Savarese, Surya Ganguli, Li Fei-Fei, "Embodied Intelligence via Learning and Evolution", 2021, [arXiv](https://arxiv.org/abs/2102.02202)
 - [2] John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov, 2017, "Proximal Policy Optimization Algorithms
 - ", [arXiv](https://arxiv.org/abs/1707.06347)
 
